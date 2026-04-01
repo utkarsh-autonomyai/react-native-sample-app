@@ -18,7 +18,11 @@
     "react-native-web": "^0.21.0"
   },
   "devDependencies": {
+    "@react-native-async-storage/async-storage": "^3.0.2",
+    "@storybook/react-native-web-vite": "^10.3.3",
     "@types/react": "~19.1.0",
+    "react-native-safe-area-context": "^5.7.0",
+    "storybook": "^10.3.3",
     "typescript": "~5.9.2"
   },
   "private": true
