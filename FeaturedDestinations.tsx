@@ -1,9 +1,9 @@
+import { useEffect } from 'react';
 import {
   Animated,
   View,
   ScrollView,
   StyleSheet,
-  useEffect,
 } from 'react-native';
 import { destinations, colors } from './travelData';
 import SectionHeader from './SectionHeader';

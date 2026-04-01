@@ -1,10 +1,9 @@
+import { useState } from 'react';
 import {
   Pressable,
   Text,
   StyleSheet,
   Animated,
-  useEffect,
-  useState,
 } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { colors } from './travelData';

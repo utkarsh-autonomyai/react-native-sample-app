@@ -5,7 +5,7 @@ const meta: Meta<typeof App> = {
   title: 'App',
   component: App,
   parameters: {
-    layout: 'centered',
+    layout: 'fullscreen',
   },
 };
 
